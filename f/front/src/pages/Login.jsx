@@ -64,8 +64,6 @@ function Login() {
   </div>
   <img className="img" src="freepik__background__56254.png" />
 </>
-
-
   )
 }
 
